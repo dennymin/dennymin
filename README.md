@@ -1,4 +1,4 @@
-# profile-README
+# Denny Min's Github
 
 ## About
 My name is Denny Min and I am a software engineer who likes to develop web apps! I learned most of my coding at a bootcamp called LearningFuze, where I took a full-immersion course on web development. Here, I was able to develop solo projects and work on teams to build apps.
